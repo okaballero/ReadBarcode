@@ -1,0 +1,7 @@
+Flask
+flask-bcrypt
+PyMySQL
+flask-cors
+requests
+python-decouple
+uwsgi
